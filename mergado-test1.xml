@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:CHANNEL xmlns:ns1="http://www.mergado.com/ns/1.10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ns1:ITEM>
+		<ns1:ITEM_ID>83724</ns1:ITEM_ID>
+		<ns1:NAME_EXACT>Boros Oak Barrel 100l/22gal, Hungarian type</ns1:NAME_EXACT>
+		<ns1:NAME_COMMERCIAL>Boros Oak Barrel 100l/22gal, Hungarian type</ns1:NAME_COMMERCIAL>
+		<ns1:DESCRIPTION>Wood: Carefully selected 120 years old sessile oak (Quercus Petraea)</ns1:DESCRIPTION>
+		<ns1:DELIVERY_DAYS>7</ns1:DELIVERY_DAYS>
+		<ns1:CURRENCY>EUR</ns1:CURRENCY>
+		<ns1:BRAND>Boros Oak Barrels</ns1:BRAND>
+		<ns1:URL>https://www.borosoakbarrels.com/</ns1:URL>
+		<ns1:PRICE_VAT>105</ns1:PRICE_VAT>
+		<ns1:AVAILABILITY>in stock</ns1:AVAILABILITY>
+		<ns1:STOCK_QUANTITY>10</ns1:STOCK_QUANTITY>
+	</ns1:ITEM>
+</ns1:CHANNEL>
